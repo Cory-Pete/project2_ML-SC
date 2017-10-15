@@ -16,3 +16,4 @@ dataset = [[2.7810836,2.550537003,0],
 practice = network.Network(dataset, 2)
 practice.train(0.5, 20)
 print(practice)
+#basic change
